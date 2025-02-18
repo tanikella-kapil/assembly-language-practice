@@ -1,0 +1,7 @@
+MOV AX,1234H
+MOV BX,5678H
+ADD AX,BX
+
+
+
+; [SOURCE]: C:\Program Files (x86)\emu8086\MyBuild\mycode.asm
